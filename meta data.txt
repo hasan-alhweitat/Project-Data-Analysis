@@ -1,0 +1,31 @@
+TRADE_DATE: is the date on which a security trade occurs
+
+SEC_NAME1: refers to Company Names.
+
+SEC_CODE: refers to the companies' ID.
+
+SYMBOL1: refers to the companies' symbol.
+
+MARKET: refers to which market section the trades took place.
+
+VOLUME: is the total number of shares that have been bought or sold in a specific period of time or during the trading day.
+
+TRADE_QTY: the sum total of all the shares of a particular company, bought and sold in a particular trading session.
+
+NO_OF_TRADES: signifies the amount of transacting, i.e. how many trades were placed for a specific share on a particular day.
+
+HIGH: The highest closing price of a stock.
+
+LOW: The lowest closing price of a stock.
+
+OPEN_PRICE:  refers to the price at which a share first trades upon the opening of an exchange on a trading day.
+
+CLOSE_PRICE: refers to the last price at which a stock trades during a regular trading session.
+
+BEST_ASK_PRICE: refers to the lowest offer price available from among sellers quoting shares. 
+
+BEST_ASK_QTY: refers to the number of shares the individuals are willing to sell at a specified ask price.
+
+BEST_BID_PRICE: refers to the highest quoted offer price among buyers of particular shares or assets.
+
+BEST_BID_QTY: refers to the highest amount of money someone is willing to pay to acquire those shares.
